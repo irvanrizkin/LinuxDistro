@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LinuxDistro</string>
+    <string name="linux_mint">Linux Mint</string>
+    <string name="linux_mint_desc">Dengan pengalaman mirip Windows yang hampir sempurna, menjadikan Linux Mint sebagai penantang Ubuntu</string>
+    <string name="ubuntu">Ubuntu</string>
+    <string name="ubuntu_desc">Ubuntu sangat populer dan memiliki forum yang sangat aktif menjadikannya sebagai distro paling populer</string>
+    <string name="centos">CentOS</string>
+    <string name="centos_desc">Versi gratis dari Red Hat Enterprise Linux yang juga menawarkan kinerja stabil dan bagus untuk server</string>
+    <string name="ubuntu_mate">Ubuntu MATE</string>
+    <string name="ubuntu_mate_desc">Ketika Windows menghentikan dukungan untuk OS tua. Ubuntu MATE hadir untuk hardware jadul agar terus terupdate</string>
+    <string name="kali_linux">Kali Linux</string>
+    <string name="kali_linux_desc">Dengan ratusan tool untuk analisis kerentanan, eksploitasi, alat forensik menjadikan Kali Linux primadona untuk peretasan etika</string>
+    <string name="steam_os">Steam OS</string>
+    <string name="steam_os_desc">Dengan kinerja yang lebih baik berkat tweak kernel Linux tambahan menjadikan Steam OS sebagai pilihan utama para gamer</string>
+    <string name="debian">Debian</string>
+    <string name="debian_desc">Stabilitas yang ditawarkan Debian menjadikannya sebagai distro untuk programming terbaik, walau terkesan rumit untuk pemula</string>
+    <string name="elementary_os">Elementary OS</string>
+    <string name="elementary_os_desc">Dengan meminjam antarmuka macOS dan pengalaman yang ringan menjadikan Elementary OS cocok untuk tugas komputasi sehari-hari</string>
+    <string name="ubermix">Ubermix</string>
+    <string name="ubermix_desc">Mudah diatur serta dukungan layar sentuh menjadikan Ubermix sebagai distro linux untuk anak-anak yang suka mengeksplorasi dengan tangan</string>
+    <string name="tails">Tails</string>
+    <string name="tails_desc">Tails menawarkan koneksi Tor, penghapusan jejak, dan alat kriptografi untuk enskripsi untuk menjaga anonimitas</string>
+</resources>
